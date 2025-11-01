@@ -1,3 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="120" viewBox="0 0 800 120">
+    <rect width="100%" height="100%" fill="#2c3e50"/>
+    <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" fill="#ecf0f1" font-weight="bold">
+        Ahmed Wael | Front-End Developer
+    </text>
+    <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#3498db">
+        Code | Create | Innovate 💻
+    </text>
+    <rect x="0" y="0" width="100%" height="5" fill="#3498db"/>
+    <rect x="0" y="115" width="100%" height="5" fill="#3498db"/>
+</svg>
 <p align="center">
   <img src="./banner.svg" alt="Ahmed Wael - Front-End Developer Banner">
 </p>
