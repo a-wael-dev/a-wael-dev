@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1792" height="512" viewBox="0 0 1792 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f1724"/>
+      <stop offset="45%" stop-color="#081226"/>
+      <stop offset="100%" stop-color="#0b1020"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0066ff"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#ff6ec7"/>
+    </linearGradient>
+    <filter id="f1" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="24" result="b"/>
+      <feBlend in="SourceGraphic" in2="b"/>
+    </filter>
+    <style type="text/css"><![CDATA[
+      .title { font-family: 'Inter', 'Segoe UI', Roboto, system-ui, -apple-system; font-weight: 700; fill: #ffffff; }
+      .subtitle { font-family: 'Inter', 'Segoe UI', Roboto, system-ui, -apple-system; font-weight: 500; fill: #bcd1ff; opacity: 0.95; }
+      .chip { font-family: 'Inter', 'Segoe UI', Roboto, system-ui, -apple-system; font-weight: 600; fill: #0b1220; }
+    ]]></style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1792" height="512" rx="12" fill="url(#g1)"/>
+
+  <!-- Decorative gradient blobs (left / right) -->
+  <g filter="url(#f1)">
+    <ellipse cx="300" cy="180" rx="280" ry="120" fill="url(#g2)" opacity="0.12"/>
+    <ellipse cx="1500" cy="280" rx="360" ry="160" fill="url(#g2)" opacity="0.10"/>
+  </g>
+
+  <!-- Faint grid lines -->
+  <g opacity="0.06" stroke="#ffffff">
+    <path d="M0 64 H1792" stroke-width="1"/>
+    <path d="M0 128 H1792" stroke-width="1"/>
+    <path d="M0 192 H1792" stroke-width="1"/>
+    <path d="M0 256 H1792" stroke-width="1"/>
+    <path d="M0 320 H1792" stroke-width="1"/>
+  </g>
+
+  <!-- Centered Text -->
+  <g transform="translate(120,120)">
+    <text x="0" y="40" class="title" font-size="48">Ahmed Wael</text>
+    <text x="0" y="92" class="subtitle" font-size="20">Frontend Developer — React · TypeScript · TailwindCSS</text>
+  </g>
+
+  <!-- Right side chips / badges -->
+  <g transform="translate(1250,120)">
+    <!-- chip background -->
+    <rect x="0" y="0" rx="8" ry="8" width="380" height="80" fill="rgba(255,255,255,0.03)"/>
+    <!-- small icons as simple glyphs -->
+    <!-- HTML chip -->
+    <g transform="translate(12,12)">
+      <rect x="0" y="0" width="56" height="56" rx="10" fill="#e34f26" />
+      <text x="28" y="36" text-anchor="middle" font-family="Inter" font-weight="700" font-size="24" fill="#fff">5</text>
+    </g>
+    <!-- CSS chip -->
+    <g transform="translate(80,12)">
+      <rect x="0" y="0" width="56" height="56" rx="10" fill="#1572B6" />
+      <text x="28" y="36" text-anchor="middle" font-family="Inter" font-weight="700" font-size="24" fill="#fff">3</text>
+    </g>
+    <!-- JS chip -->
+    <g transform="translate(148,12)">
+      <rect x="0" y="0" width="56" height="56" rx="10" fill="#F7DF1E" />
+      <text x="28" y="36" text-anchor="middle" font-family="Inter" font-weight="800" font-size="20" fill="#111">JS</text>
+    </g>
+    <!-- React chip -->
+    <g transform="translate(216,12)">
+      <rect x="0" y="0" width="56" height="56" rx="10" fill="#61DAFB" />
+      <text x="28" y="36" text-anchor="middle" font-family="Inter" font-weight="800" font-size="18" fill="#052020">⚛</text>
+    </g>
+
+    <!-- small call-to-action -->
+    <text x="0" y="72" class="chip" font-size="14">Open to work · Available for freelance</text>
+  </g>
+
+  <!-- Bottom subtle line -->
+  <rect x="120" y="220" width="1550" height="1" fill="rgba(255,255,255,0.04)"/>
+
+  <!-- Tiny accent code-like graphic left -->
+  <g transform="translate(60,320)" opacity="0.9">
+    <rect x="0" y="0" width="80" height="56" rx="8" fill="#071022" stroke="#0b1229" />
+    <text x="14" y="34" font-family="monospace" font-size="22" fill="#00BFFF">{ }</text>
+  </g>
+
+</svg>
