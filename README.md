@@ -1,71 +1,63 @@
-<!-- Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/a-wael-dev/a-wael-dev/main/banner.svg" alt="Ahmed Wael Banner" />
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmed+Wael+👋;Frontend+Developer+from+Cairo%2C+Egypt;I+build+interactive+%26+modern+web+apps;Specializing+in+React%2C+Next.js%2C+TypeScript%2C+TailwindCSS" alt="Typing SVG" />
+  <img src="./banner.svg" alt="Ahmed Wael - Front-End Developer Banner">
 </p>
 
 ---
 
-## 🧠 About Me  
-👋 Hi, I’m **Ahmed Wael**, a passionate **Frontend Developer** from **Cairo, Egypt 🇪🇬**.  
-I specialize in building **interactive**, **responsive**, and **modern** web applications using  
-**React**, **Next.js**, **TypeScript**, and **TailwindCSS**.  
+## 👋 Hi there! I'm Ahmed Wael
 
-🚀 **Currently Learning:** Advanced Next.js, API Integrations & Design Systems  
-🎯 **Goal:** To become a Full-Stack Developer  
-🎮 **Fun fact:** I love designing creative UI ideas and playing **Valorant** in my free time!
+I'm a dedicated and highly motivated Front-End Developer passionate about turning innovative concepts into visually stunning, user-friendly, and highly responsive web experiences. I focus on building clean, efficient, and performance-optimized user interfaces using the latest industry standards and frameworks. I am here to share my projects and collaborate on building the future of the web.
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🛠️ My Tech Stack (The Tools I Use)
+
+My development journey is powered by a robust set of technologies:
+
+### Fundamentals:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Libraries & Frameworks:
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### Tools & Platforms:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 Quick Stats (My GitHub Activity)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite,git,github,figma,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Wael&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Ahmed Wael GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Wael&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 📂 Featured Projects  
+## 📬 Let's Connect!
 
-| 🧩 Project | 💡 Description | 🛠️ Tech Stack |
-|-------------|----------------|----------------|
-| **E-Commerce Website** | Responsive online store with filters, product cards, and cart system | React, Redux, Tailwind, Vite |
-| **Admin Dashboard** | Interactive admin panel with charts and data tables | Next.js, TypeScript, Chart.js |
-| **Portfolio (Coming Soon)** | Personal portfolio showcasing my work and skills | Next.js, Framer Motion |
+I am always open to discussing new job opportunities, interesting collaborations, or just sharing knowledge in the Front-End development space.
 
----
+* Email: [a.wael.dev@gmail.com](mailto:a.wael.dev@gmail.com)
+    ![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-## 🌐 Connect With Me  
+* LinkedIn: [\[Add your LinkedIn Profile Link here\]]
+    ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-<p align="center">
-  <a href="https://t.me/yourtelegram" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" width="40" /></a>
-  <a href="https://instagram.com/yourinstagram" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
-  <a href="https://facebook.com/yourfacebook" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="40" /></a>
-  <a href="https://x.com/yourx" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
-  <a href="mailto:a.wael.dev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
-</p>
+* Twitter/X: [\[Add your Twitter/X Profile Link here if active\]]
+    ![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
 ---
 
-## ⚡ GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a-wael-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=a-wael-dev&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-## 🧩 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-wael-dev&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">⭐️ Inspired by passion for clean design & modern web experiences</p>
+Thanks for visiting my profile!
