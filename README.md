@@ -1,103 +1,71 @@
-<!-- Ahmed Wael | Senior Frontend Developer - Professional GitHub Profile -->
-
+<!-- Header Banner -->
 <p align="center">
-  <img src="./banner.svg" alt="Ahmed Wael — Frontend Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/a-wael-dev/a-wael-dev/main/banner.svg" alt="Ahmed Wael Banner" />
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Ahmed+Wael;Frontend+Developer+—+React+%E2%8B%9B+TypeScript+%E2%9C%85+TailwindCSS" alt="typing intro" />
-</p>
-
----
-
-<div align="center">
-
-# 👋 Hi, I'm **Ahmed Wael**  
-### Senior-aspiring Frontend Developer — Crafting modern, fast & accessible web interfaces
-
-</div>
-
----
-
-## 🔭 About Me
-I design and build production-ready frontend applications with a focus on **performance**, **accessibility**, and **scalable code architecture**. I translate UI/UX into clean, maintainable components and ship features that users love.
-
-- 📍 Based in Cairo, Egypt  
-- 💼 Available for full-time & freelance roles  
-- 📚 Currently deepening my knowledge in **Next.js**, **Server Components** and **advanced TypeScript patterns**
-
----
-
-## 🛠️ Core Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux,vite,git,github,figma,vscode" alt="skills" />
-</p>
-
-**Expertise:** React, TypeScript, TailwindCSS, Component Architecture, State Management, Performance Optimization, Responsive & Accessible UI.
-
----
-
-## 🚀 Selected Projects
-
-> (Replace the links & descriptions with real project repositories & live demos when available.)
-
-| Project | Role & Impact | Tech |
-|---|---:|---|
-| 🛒 **E-Commerce Frontend** | Built modular product listing, optimized bundle size, improved LCP by 45% | React, Vite, Tailwind, Redux |
-| 📊 **Admin Analytics Dashboard** | Implemented charts, server-side data fetching, role-based views | Next.js, TypeScript, Chart.js |
-| 🌐 **Marketing Landing Page** | SEO-focused landing with 98 Lighthouse performance | HTML, CSS, JS |
-
-<p align="center">
-  <a href="https://github.com/a-wael-dev?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmed+Wael+👋;Frontend+Developer+from+Cairo%2C+Egypt;I+build+interactive+%26+modern+web+apps;Specializing+in+React%2C+Next.js%2C+TypeScript%2C+TailwindCSS" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📊 GitHub Metrics
+## 🧠 About Me  
+👋 Hi, I’m **Ahmed Wael**, a passionate **Frontend Developer** from **Cairo, Egypt 🇪🇬**.  
+I specialize in building **interactive**, **responsive**, and **modern** web applications using  
+**React**, **Next.js**, **TypeScript**, and **TailwindCSS**.  
+
+🚀 **Currently Learning:** Advanced Next.js, API Integrations & Design Systems  
+🎯 **Goal:** To become a Full-Stack Developer  
+🎮 **Fun fact:** I love designing creative UI ideas and playing **Valorant** in my free time!
+
+---
+
+## 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a-wael-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-wael-dev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=a-wael-dev&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite,git,github,figma,vscode" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 📂 Featured Projects  
+
+| 🧩 Project | 💡 Description | 🛠️ Tech Stack |
+|-------------|----------------|----------------|
+| **E-Commerce Website** | Responsive online store with filters, product cards, and cart system | React, Redux, Tailwind, Vite |
+| **Admin Dashboard** | Interactive admin panel with charts and data tables | Next.js, TypeScript, Chart.js |
+| **Portfolio (Coming Soon)** | Personal portfolio showcasing my work and skills | Next.js, Framer Motion |
+
+---
+
+## 🌐 Connect With Me  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a-wael-dev&theme=tokyonight&no-bg=true" alt="trophies" />
+  <a href="https://t.me/yourtelegram" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" width="40" /></a>
+  <a href="https://instagram.com/yourinstagram" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+  <a href="https://facebook.com/yourfacebook" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="40" /></a>
+  <a href="https://x.com/yourx" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
+  <a href="mailto:a.wael.dev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
 </p>
 
 ---
 
-## 📈 Contributions
+## ⚡ GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-wael-dev&theme=react-dark&hide_border=true" alt="contribution graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=a-wael-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=a-wael-dev&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-## 💬 Let's work together
+## 🧩 Activity Graph  
 
 <p align="center">
-  <a href="mailto:a.wael.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-wael-dev&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 📋 Quick start (for my projects)
-
-```bash
-git clone https://github.com/a-wael-dev/PROJECT_NAME.git
-cd PROJECT_NAME
-npm install
-npm run dev
+<p align="center">⭐️ Inspired by passion for clean design & modern web experiences</p>
