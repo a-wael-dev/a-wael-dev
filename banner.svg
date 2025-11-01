@@ -1,88 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1792" height="512" viewBox="0 0 1792 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#0f1724"/>
-      <stop offset="45%" stop-color="#081226"/>
-      <stop offset="100%" stop-color="#0b1020"/>
-    </linearGradient>
-    <linearGradient id="g2" x1="0" x2="1">
-      <stop offset="0%" stop-color="#0066ff"/>
-      <stop offset="50%" stop-color="#7c3aed"/>
-      <stop offset="100%" stop-color="#ff6ec7"/>
-    </linearGradient>
-    <filter id="f1" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="24" result="b"/>
-      <feBlend in="SourceGraphic" in2="b"/>
-    </filter>
-    <style type="text/css"><![CDATA[
-      .title { font-family: 'Inter', 'Segoe UI', Roboto, system-ui, -apple-system; font-weight: 700; fill: #ffffff; }
-      .subtitle { font-family: 'Inter', 'Segoe UI', Roboto, system-ui, -apple-system; font-weight: 500; fill: #bcd1ff; opacity: 0.95; }
-      .chip { font-family: 'Inter', 'Segoe UI', Roboto, system-ui, -apple-system; font-weight: 600; fill: #0b1220; }
-    ]]></style>
-  </defs>
+<p align="center">
+  <img src="./banner.svg" alt="Ahmed Wael - Front-End Developer Banner">
+</p>
 
-  <!-- Background -->
-  <rect width="1792" height="512" rx="12" fill="url(#g1)"/>
+---
 
-  <!-- Decorative gradient blobs (left / right) -->
-  <g filter="url(#f1)">
-    <ellipse cx="300" cy="180" rx="280" ry="120" fill="url(#g2)" opacity="0.12"/>
-    <ellipse cx="1500" cy="280" rx="360" ry="160" fill="url(#g2)" opacity="0.10"/>
-  </g>
+## 👋 Hi there! I'm Ahmed Wael
 
-  <!-- Faint grid lines -->
-  <g opacity="0.06" stroke="#ffffff">
-    <path d="M0 64 H1792" stroke-width="1"/>
-    <path d="M0 128 H1792" stroke-width="1"/>
-    <path d="M0 192 H1792" stroke-width="1"/>
-    <path d="M0 256 H1792" stroke-width="1"/>
-    <path d="M0 320 H1792" stroke-width="1"/>
-  </g>
+I'm a dedicated and highly motivated Front-End Developer passionate about turning innovative concepts into visually stunning, user-friendly, and highly responsive web experiences. I focus on building clean, efficient, and performance-optimized user interfaces using the latest industry standards and frameworks. I am here to share my projects and collaborate on building the future of the web.
 
-  <!-- Centered Text -->
-  <g transform="translate(120,120)">
-    <text x="0" y="40" class="title" font-size="48">Ahmed Wael</text>
-    <text x="0" y="92" class="subtitle" font-size="20">Frontend Developer — React · TypeScript · TailwindCSS</text>
-  </g>
+---
 
-  <!-- Right side chips / badges -->
-  <g transform="translate(1250,120)">
-    <!-- chip background -->
-    <rect x="0" y="0" rx="8" ry="8" width="380" height="80" fill="rgba(255,255,255,0.03)"/>
-    <!-- small icons as simple glyphs -->
-    <!-- HTML chip -->
-    <g transform="translate(12,12)">
-      <rect x="0" y="0" width="56" height="56" rx="10" fill="#e34f26" />
-      <text x="28" y="36" text-anchor="middle" font-family="Inter" font-weight="700" font-size="24" fill="#fff">5</text>
-    </g>
-    <!-- CSS chip -->
-    <g transform="translate(80,12)">
-      <rect x="0" y="0" width="56" height="56" rx="10" fill="#1572B6" />
-      <text x="28" y="36" text-anchor="middle" font-family="Inter" font-weight="700" font-size="24" fill="#fff">3</text>
-    </g>
-    <!-- JS chip -->
-    <g transform="translate(148,12)">
-      <rect x="0" y="0" width="56" height="56" rx="10" fill="#F7DF1E" />
-      <text x="28" y="36" text-anchor="middle" font-family="Inter" font-weight="800" font-size="20" fill="#111">JS</text>
-    </g>
-    <!-- React chip -->
-    <g transform="translate(216,12)">
-      <rect x="0" y="0" width="56" height="56" rx="10" fill="#61DAFB" />
-      <text x="28" y="36" text-anchor="middle" font-family="Inter" font-weight="800" font-size="18" fill="#052020">⚛</text>
-    </g>
+## 🛠️ My Tech Stack (The Tools I Use)
 
-    <!-- small call-to-action -->
-    <text x="0" y="72" class="chip" font-size="14">Open to work · Available for freelance</text>
-  </g>
+My development journey is powered by a robust set of technologies:
 
-  <!-- Bottom subtle line -->
-  <rect x="120" y="220" width="1550" height="1" fill="rgba(255,255,255,0.04)"/>
+### Fundamentals:
 
-  <!-- Tiny accent code-like graphic left -->
-  <g transform="translate(60,320)" opacity="0.9">
-    <rect x="0" y="0" width="80" height="56" rx="8" fill="#071022" stroke="#0b1229" />
-    <text x="14" y="34" font-family="monospace" font-size="22" fill="#00BFFF">{ }</text>
-  </g>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</svg>
+### Libraries & Frameworks:
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### Tools & Platforms:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 Quick Stats (My GitHub Activity)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Wael&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Ahmed Wael GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Wael&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📬 Let's Connect!
+
+I am always open to discussing new job opportunities, interesting collaborations, or just sharing knowledge in the Front-End development space.
+
+* Email: [a.wael.dev@gmail.com](mailto:a.wael.dev@gmail.com)
+    ![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+* LinkedIn: [\[Add your LinkedIn Profile Link here\]]
+    ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+* Twitter/X: [\[Add your Twitter/X Profile Link here if active\]]
+    ![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+
+---
+
+Thanks for visiting my profile!
